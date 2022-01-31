@@ -6,4 +6,7 @@ def circum(r):
     return np.pi*2*r
 
 def surfacearea(r):
+    """
+    calculates surface area, given r
+    """
     return np.pi**2*r
